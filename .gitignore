@@ -12,6 +12,7 @@
 *.cb2
 .*.lb
 .*.swp
+.*.un~
 .*.swo
 
 ## Intermediate documents:
